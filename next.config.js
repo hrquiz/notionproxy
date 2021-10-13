@@ -28,7 +28,7 @@ const nextConfig = {
     //gaTraceId: 'G-HDWXJVK15N',
     //pageIdsThatHaveThumnail,
     rootNotionPageId: '4f8e07bed170475195d669adae16f81c',
-    rootNotionSpaceId: '530db021-c53d-4316-b823-982c0c9c3284',
+    //rootNotionSpaceId: '530db021-c53d-4316-b823-982c0c9c3284',
     //gaTraceId: 'G-HDWXJVK15N',
     pageIdsThatHaveThumnail,
 
