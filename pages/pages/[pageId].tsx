@@ -133,7 +133,7 @@ export default function NotionPage({ recordMap }) {
 
   const childrenOfHead = (
     <>
-      <title>{`${pageInfo.title} | TAEHO.IO`}</title>
+      <title>{`${pageInfo.title} | Haikal Rahman`}</title>
       <meta property="og:title" content={pageInfo.titleWithIcon} />
       <meta property="og:description" content={pageInfo.description} />
       {hasThumbnail && <meta property="og:image" content={imageUrl} />}
