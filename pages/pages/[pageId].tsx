@@ -163,8 +163,7 @@ export default function NotionPage({ recordMap }) {
         }}
       />
 
-      
-      )}
+      {pageId !== publicRuntimeConfig.rootNotionPageId}
     </>
   );
 }
